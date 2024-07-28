@@ -2,7 +2,7 @@
 
 Reflective Journal - 1
 
-=======================================================================================================
+================================================================================
 
 In this first reflective journal, I want to summarise my experience in the ADS1001 unit. Last semester, I was stressed out  at the end of the semester because I took ADS1001 lightly. When it was time to submit the project, I realized there were many things I could have done to improve the project and get better marks while learning a lot more.
 
@@ -11,4 +11,4 @@ Before taking the data science unit, I believed ADS1001 was just about learning 
 Firstly, I pledged to make notes of pre-readings and solve in-class materials for better practice. This way, when it's time to do a project, I can focus on research questions rather than stressing about the coding part and revisiting entire weeks of material. I also believe that weekly notebooks are essential for mastering different libraries, as they require more critical thinking. Additionally, there was a lack of group communication, so this semester, I will try to take on a leadership role to ensure better communication and project results. 
 Finally, I plan to clarify any confusion regarding pre-readings throughout the semester to avoid any misunderstandings.
 
-=======================================================================================================
+============================================================================
