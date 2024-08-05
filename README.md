@@ -16,5 +16,7 @@ Finally, I plan to clarify any confusion regarding pre-readings throughout the s
 Reflective Journal - 2
 
 In these early days of the semester, I am really excited about the project. This semester, the project description is straightforward, giving us plenty of time to focus on the finer details. It motivates me to be more attentive in class because I understand that everything taught will help me with the project.
+
 Moreover, the option to add our preferences to the project is a great initiative by the instructor. It allows us to choose topics that interest us. Compared to last semester, I would definitely say that this semester's project is more engaging. It helps me come up with more detailed questions, and the provided data is easier to understand.
+
 During our group meeting, we found the project really interesting and are looking forward to giving our best effort. So far, I haven't faced any challenging tasks in the project, probably because it is still in its initial stages. However, I anticipate that we might encounter difficulties later when we start plotting and analyzing trends.
