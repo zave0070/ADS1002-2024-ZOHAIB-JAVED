@@ -23,7 +23,9 @@ During our group meeting, we found the project really interesting and are lookin
 
 
 ============================================================================
-Reflective Journal - 2
+
+
+Reflective Journal - 3
 
 Reflecting on the past five weeks, the syllabus has been fairly basic, with most concepts being easy to grasp. There were a few confusing topics in Week 4, but with the help of the TA, everything was clarified.
 
