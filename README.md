@@ -20,3 +20,18 @@ In these early days of the semester, I am really excited about the project. This
 Moreover, the option to add our preferences to the project is a great initiative by the instructor. It allows us to choose topics that interest us. Compared to last semester, I would definitely say that this semester's project is more engaging. It helps me come up with more detailed questions, and the provided data is easier to understand.
 
 During our group meeting, we found the project really interesting and are looking forward to giving our best effort. So far, I haven't faced any challenging tasks in the project, probably because it is still in its initial stages. However, I anticipate that we might encounter difficulties later when we start plotting and analyzing trends.
+
+
+============================================================================
+Reflective Journal - 2
+
+Reflecting on the past five weeks, the syllabus has been fairly basic, with most concepts being easy to grasp. There were a few confusing topics in Week 4, but with the help of the TA, everything was clarified.
+
+Regarding the project, my team is working on a climate-related topic. We hold weekly meetings to discuss our progress, and tasks are divided among group members. The collaboration within the group has been excellent; we communicate via Teams, and everyone responds promptly, which has greatly facilitated our progress.
+
+Our assigned TA has been incredibly supportive, assisting us with any project-related challenges. This guidance has been invaluable, especially when we encountered difficulties with understanding the datasets at the beginning. However, things have since become much clearer, and we’re making steady progress.
+
+Overall, I find the project fascinating, and I'm eager to continue working with my group. Although I initially struggled with how to utilize the data for our modeling, everything is now falling into place.
+
+In conclusion, the past four weeks have been a great experience, and I’m looking forward to the remainder of the course.
+
