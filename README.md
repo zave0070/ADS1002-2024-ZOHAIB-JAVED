@@ -37,3 +37,33 @@ Overall, I find the project fascinating, and I'm eager to continue working with 
 
 In conclusion, the past four weeks have been a great experience, and I’m looking forward to the remainder of the course.
 
+
+
+
+
+Reflective Journal - 3
+
+Over the past five weeks, the syllabus has been quite basic. The notes and post-studio notebooks provided are straightforward, but I need to spend time understanding them thoroughly. I've been struggling with retaining what I study, so to address this, I’ve started making notes to help me recall the material whenever I feel like I'm forgetting something.
+
+Regarding the project, my team is working on a climate-related topic. We have weekly meetings to discuss our progress, and tasks are divided among the group members. The collaboration within the group has been excellent; we communicate via Teams, and everyone responds promptly, which has greatly facilitated our progress. Each week, we come up with different questions and address any confusion regarding the project. Zoom has been an effective platform for our discussions.
+
+Our assigned TA has been incredibly supportive, helping us overcome project-related challenges. This guidance has been especially valuable when we initially struggled to understand the datasets. If the TA doesn’t clear up certain concepts, I make a list of questions and seek clarification from the instructors.
+
+Overall, I find the project fascinating and am eager to continue working with my group. Although I initially had difficulty figuring out how to utilize the data for our modeling, things are now falling into place. In conclusion, the past four weeks have been a great experience, and I’m looking forward to the remainder of the course.
+
+
+============================================================================
+
+
+Reflective Journal - 4
+
+Reflecting on the past five weeks, the syllabus has been fairly basic, the notes book provided us tp practice and post studio notebooks are also easy but we I have to spend time to understand them clearly, I feel like forgetting everything I study, but to solve this problem from now own I have been making notes to recall them when ever I feel like forgetting anything
+
+Regarding the project, my team is working on a climate-related topic. We hold weekly meetings to discuss our progress, and tasks are divided among group members. The collaboration within the group has been excellent; we communicate via Teams, and everyone responds promptly, which has greatly facilitated our progress. Each week we come up with different questions and where ever we feel like we have some confusion regarding the project and also zoom is the best source to discuss things 
+
+Our assigned TA has been incredibly supportive, assisting us with any project-related challenges. This guidance has been invaluable, especially when we encountered difficulties with understanding the datasets at the beginning. However, if concepts are not cleared by ta I try to make questionnaire and ask them from Instructors 
+
+Overall, I find the project fascinating, and I'm eager to continue working with my group. Although I initially struggled with how to utilize the data for our modeling, everything is now falling into place.
+In conclusion, the past four weeks have been a great experience, and I’m looking forward to the remainder of the course.
+
+
