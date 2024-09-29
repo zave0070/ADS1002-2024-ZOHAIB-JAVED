@@ -67,3 +67,17 @@ Overall, I find the project fascinating, and I'm eager to continue working with 
 In conclusion, the past four weeks have been a great experience, and I’m looking forward to the remainder of the course.
 
 
+
+============================================================================
+
+
+Reflective Journal - 5
+
+
+The semester has been going really well so far, and there are a few things I’d like to reflect on, such as the mock presentation, note-taking, understanding the pin class, and collaborating with group members on the project.
+
+Starting with the project, I’ve been in regular contact with my group members, and we collaborate closely, offering guidance to each other whenever someone faces a challenge, whether it's a major or minor issue. I’ve put in much more effort into this project compared to last semester because I’m eager to learn more and apply these learnings in the future.
+
+Additionally, the mock presentation was a great initiative. It allowed me to focus on areas where we can enhance our final report and project. Seeing other groups’ presentations gave me ideas for improving my own PowerPoint and final report by paying attention to finer details.
+
+As for the classroom content, everything has been quite understandable so far. Whenever I don’t fully grasp a concept, I consult with the instructor for clarification. Lastly, the post-studio notebooks have been an excellent way to reinforce the concepts we’ve learned in class.
