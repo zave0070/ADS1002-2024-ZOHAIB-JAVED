@@ -81,3 +81,17 @@ Starting with the project, I’ve been in regular contact with my group members,
 Additionally, the mock presentation was a great initiative. It allowed me to focus on areas where we can enhance our final report and project. Seeing other groups’ presentations gave me ideas for improving my own PowerPoint and final report by paying attention to finer details.
 
 As for the classroom content, everything has been quite understandable so far. Whenever I don’t fully grasp a concept, I consult with the instructor for clarification. Lastly, the post-studio notebooks have been an excellent way to reinforce the concepts we’ve learned in class.
+
+
+
+============================================================================
+Reflective Journal - 6
+
+
+As I move toward the final week of my semester, I reflect on the amazing journey I've had over the past 11 weeks. I've learned numerous concepts, though I initially struggled with some of them. Fortunately, both my TA and instructor provided invaluable support in helping me grasp the material. One major challenge I faced this semester was forgetting concepts from my weekly notebooks. However, consistent revision has proven helpful. To strengthen my understanding of machine learning, I plan to revisit these topics during the summer holidays.
+
+Additionally, the last two weeks have been particularly busy with project work, which has been quite time consuming. At every turn, I encountered new hurdles. However, discussing my ideas with the TA and instructor provided clarity and direction, making the work more manageable. To further enhance my practical skills, I intend to redo the entire project individually over the summer.
+
+Communication with my group members has been a bit challenging in the final week, as they were occupied with other assignments. This situation required me to invest more time in my part of the project and even take on some of their responsibilities since our tasks were interconnected.
+
+Overall, the journey has been rewarding, and I look forward to delivering my presentation. I'm eager to see what other groups have accomplished, as it will help broaden my perspective and enhance my thinking.
